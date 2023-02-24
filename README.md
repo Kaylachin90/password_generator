@@ -1,4 +1,4 @@
-# horiseon-refactor
+# password-generator
 
 ![Screenshot](/images/screenshot.png)
 
