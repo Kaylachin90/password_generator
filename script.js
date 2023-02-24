@@ -13,11 +13,11 @@ function generatePassword (){
   var totalString = ""
   if (acceptLower) {
     //add lower characters to total
-totalString += "abcde"
+totalString += "abcdefghijklmnopqrstuvwxyz"
   }
   if (confirm("Would you like uppercase letters?")) {
     //add upper characters to toal
-    totalString += "ABCD"
+    totalString += "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
   }
   if (confirm("Would you like numbers?")) {
     //add numbers to toal
